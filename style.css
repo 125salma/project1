@@ -1,0 +1,127 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    border-right: 5px solid gray;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+}
+h1{
+    font-size: 40px;
+}
+h4{
+    font-size: 20px;
+}
+.color{
+    color: salmon;
+}
+.vagetable{
+display: flex;
+margin-bottom: 50px;
+}
+.half-width{
+    width: 70%;
+    margin-left: 50px;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.half-width p{
+    margin-bottom: 50px;
+}
+
+.order-food{
+   text-decoration: none;
+   color: white;
+   background-image: linear-gradient(salmon,red);
+   padding: 20px 30px;
+   border-radius: 40px;
+   margin-top: 100px;
+}
+.food{
+ background-image: url(images/shapes/7.png);
+ 
+}
+.food p,h2{
+    margin-top: 80px;
+    padding-right: 60px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+.food img{
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 50%;
+
+}
+.recipes h2{
+    text-align: center;
+}
+.recipes p{
+   width: 50%;
+   margin-left: 310px;
+   margin-bottom: 50px;
+
+}
+.recipe-area{
+    display: flex;
+    margin-left: 110px;
+    
+   
+}
+.food-picture img{
+   width: 94%;
+   margin-left: 10px;
+   margin-top: 10px;
+
+}
+.food-picture{
+    box-shadow: 10px 20px 40px grey;
+    margin: 25px;
+    height: 450px;
+    width: 320px;
+    border-radius: 20px;
+}
+.food-picture p,h3{
+    padding: 10px;
+}
+.challen{
+    display: flex;
+
+
+}
+.challen-area{
+   margin-left:150px;
+
+}
+.border{
+    margin-left: 160px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 10px 20px 40px gray;
+    border-radius: 20px;
+    height: 230px;
+    width: 1000px;
+}
+.internet{
+    text-align: center;
+    background-color: black;
+    width:1348px;
+    height: 200px;
+    margin-bottom: 20px;
+    padding-top: 3px;
+    
+  
+}
+.orange{
+    color: sandybrown;
+}
+.span{
+    color: slategrey;
+}
+.internet p{
+    color: white;
+    font-size: 12px;
+}
